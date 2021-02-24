@@ -1,0 +1,8 @@
+respawn = "BASE"
+class cfgFuctions
+{
+#include "functions.hpp"
+};
+
+#include "defines.hpp"
+#include "dialogs.hpp"

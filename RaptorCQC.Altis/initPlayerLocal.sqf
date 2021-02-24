@@ -1,0 +1,1 @@
+player addAction ["Open dialog", {execVM "openDialog.sqf"}];
